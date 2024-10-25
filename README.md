@@ -2,6 +2,8 @@
 
 ## Milo Lani-Caputo
 
+## [Tableau dashboard](https://public.tableau.com/app/profile/milo.lani.caputo/viz/nyc-collisions/Dashboard1?publish=yes)
+
 ### Background
 New York City has seen 60,514 traffic collisions so far in the year 2024. While over 99% of these collisions are non-fatal, 168 accidents involved the death of one or more person. The City should focus its traffic remediation efforts on the locations in which the most traffic fatalities are occurring. Using the NYC OpenData Motor Vehicle Collisions - Crashes dataset, 10 priority ZIP codes have been identified, all of which have seen 60 or more traffic collision fatalities so far this year.
 
